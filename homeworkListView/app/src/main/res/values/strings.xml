@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homeworkListView</string>
+    <string name="avarage_temp">Среднесуточная температура</string>
+    <string name="amount_days">Количество дней</string>
+    <string name="like_month">Мне нравится этот месяц</string>
+    <string name="month">Месяц</string>
+</resources>

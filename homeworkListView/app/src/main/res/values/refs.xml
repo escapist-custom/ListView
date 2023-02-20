@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="united_states" />
+    <drawable name="spain" />
+    <drawable name="mexico" />
+    <drawable name="france" />
+</resources>
